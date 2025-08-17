@@ -103,5 +103,5 @@ While the Voting Classifier achieved solid performance, experimenting with simpl
 **GitHub**: [https://github.com/imehranasgari](https://github.com/imehranasgari)
 
 ## 📄 License
-This project is licensed under the MIT License – see the `LICENSE` file for details.
+This project is licensed under the Apache 2.0 License – see the `LICENSE` file for details.
 ```
